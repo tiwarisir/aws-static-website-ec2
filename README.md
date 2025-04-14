@@ -20,3 +20,7 @@ A beginner-friendly cloud project to host a static HTML website on an AWS EC2 in
 2. **Connect to Instance**
    ```bash
    ssh -i "your-key.pem" ec2-user@your-public-ip
+
+   ## 📸 Screenshot
+
+![EC2 Static Website](./ec2-static-website.png)
