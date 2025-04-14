@@ -23,4 +23,4 @@ A beginner-friendly cloud project to host a static HTML website on an AWS EC2 in
 
    ## 📸 Screenshot
 
-![EC2 Static Website](./ec2-static-website.png)
+![EC2 Static Website](ec2-static-website.png.png)
